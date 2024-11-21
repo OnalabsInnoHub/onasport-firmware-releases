@@ -1,5 +1,30 @@
 {
     "firmware": [
+
+      {
+        "version": "2.1.0-rc2",
+        "md5sum": "38a86d88d2f98338bd295fe09f37ca19",
+        "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases/raw/refs/heads/main/Onasport_v2.1.0-rc2.sfb",
+        "upgrade": ["2.1.0-rc2x"]
+      },
+      {
+        "version": "2.1.0-rc2x",
+        "md5sum": "9d0eaa871f0eff5e52a15b9acfa5f1f4",
+        "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases/raw/refs/heads/main/Onasport_v2.1.0-rc2x.sfb",
+        "upgrade": ["2.1.0-rc2"]
+      },
+      {
+        "version": "2.1.0-rc2x",
+        "md5sum": "9d0eaa871f0eff5e52a15b9acfa5f1f4",
+        "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases/raw/refs/heads/main/Onasport_v2.1.0-rc2x.sfb",
+        "upgrade": ["2.1.0-rc1"]
+      },
+      {
+        "version": "2.1.0-rc2x",
+        "md5sum": "9d0eaa871f0eff5e52a15b9acfa5f1f4",
+        "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases/raw/refs/heads/main/Onasport_v2.1.0-rc2x.sfb",
+        "upgrade": ["2.1.0-rc0"]
+      },
       {
         "version": "2.1.0-rc0raw",
         "md5sum": "87f218a9bcb7724fafecb31fef68ba56",
