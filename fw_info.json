@@ -1,6 +1,11 @@
 {
   "firmware": [
     {
+      "version": "4.0.0",
+      "md5sum": "ce2cae41a4e5e59ce8b99c4a7bd0bf97",
+      "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases/raw/refs/heads/main/Onasport_base-4.0.0.sfb"
+    },
+    {
       "version": "3.1.0",
       "md5sum": "2685ae997cd2fb6766e815dd9712b7e2",
       "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases/raw/refs/heads/main/Onasport_base-3.1.0.sfb"
